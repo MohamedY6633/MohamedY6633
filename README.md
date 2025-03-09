@@ -1,78 +1,21 @@
-# 👋 Mohamed Yahia
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## 🚀 About Me
-I'm **Mohamed Yahia Zakaria Elmadbouly**, a passionate **Cybersecurity Engineer** and **Mobile App Developer** with a strong foundation in secure system design and user-friendly application development. Currently pursuing a **Bachelor’s degree in Computer Science (Cybersecurity)** at Alexandria University.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedy6633&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedy6633" /> </p>
 
-## 🎯 Career Objective
-I aim to merge cybersecurity best practices with mobile app development, ensuring both innovation and security in every project. Open to **internships** and **collaborative opportunities** in Cybersecurity and Mobile App Development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedy6633" alt="mohamedy6633" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🎓 Education
-- **Alexandria University**  
-  - Bachelor of Computer Science, Faculty of Computer and Data Science  
-  - **Cybersecurity Department**  
-  - **cGPA:** 3.54 (Excellent)  
-  - **Duration:** Sept 2023 – Sept 2027  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohameddyahia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohameddyahia" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 💼 Work Experience
-- **Mobile App Development Trainee | Digital Egypt Pioneers Initiative (DEPI)** *(OCT 2024 – OCT 2025)*  
-  - Developed **cross-platform mobile applications** with **Flutter, Dart, Java, and Kotlin**.
-  - Implemented **clean architecture** and industry best practices.
-  - Enhanced skills in **communication, teamwork, self-branding, and leadership**.
-  - Specialized in **resume crafting, interview preparation, and client relationship management**.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedy6633&show_icons=true&locale=en&layout=compact" alt="mohamedy6633" /></p>
 
-- **Scientific Physics Assistant | Enough in Physics** *(AUG 2023 – NOV 2024)*  
-  - Supported over **200+ students** with tutoring and mentoring.
-  - Graded assignments and provided progress reports.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedy6633&show_icons=true&locale=en" alt="mohamedy6633" /></p>
 
----
-
-## 🛠 Technical Skills
-- **Programming Languages:** Python (NumPy, Pandas, Flask), Kotlin, Java, Dart, R  
-- **Frameworks & Tools:** Flutter, Git, GitHub  
-- **Data & Analytics:** SQL (MySQL, Postgres), Data Visualization, Power BI  
-- **Machine Learning:** Scikit-Learn  
-- **Spreadsheets:** Microsoft Excel, Google Sheets  
-- **Cybersecurity:** Basic knowledge of security frameworks  
-
----
-
-## 🎯 Soft Skills
-- Self-motivated  
-- Attention to detail  
-- Critical thinking  
-- Communication  
-- Team player  
-- Storytelling  
-- Curiosity  
-- Leadership  
-- Adaptability  
-
----
-
-## 🏆 Certifications & Awards
-- **Outstanding Volunteer Certificate** (IEEE Alexandria Computer Society Student Chapter, 2024)
-
----
-
-## 🤝 Volunteering
-- **Tech Volunteer | IEEE Alexandria Computer Society Student Chapter** *(MAR 2024 – Present)*
-
----
-
-## 🌍 Languages
-- **Arabic:** Native  
-- **English:** Advanced  
-- **French & Italian:** A1 (Elementary)  
-
----
-
-## 📬 Let's Connect!
-- **LinkedIn:** [Mohamed Yahia](https://www.linkedin.com/in/mohamedyelmadbouly/)  
-- **GitHub:** [MohamedY6633](https://github.com/MohamedY6633)  
-- **Email:** [moelmad.contactme@gmail.com](mailto:moelmad.contactme@gmail.com)  
-
-💡 *"Continuous improvement is better than delayed perfection."*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedy6633&" alt="mohamedy6633" /></p>
